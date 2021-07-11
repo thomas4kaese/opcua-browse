@@ -12,4 +12,4 @@ The obtained data is suitable for direct adressing certain nodes of interest.
 - check output.csv for desired nodes
 
 ## output data
-- output.csv with 4 cols: number,  node name, NodeId "ns=<namespaceIndex>;<identifiertype>=<identifier>" with string identifiertype "s=", datatype
+- output.csv with 4 cols: number,  node name, NodeId "ns=$namespaceIndex;$identifiertype=$identifier$" with string identifiertype ("s="), datatype
